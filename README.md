@@ -14,10 +14,11 @@
 ---
 #### Tech
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYH-code)](https://github.com/KYH-code/github-readme-stats)
 
-</div>
-  
+<!-- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYH-code)](https://github.com/KYH-code/github-readme-stats)
+-->
+
 <!--
 **KYH-code/KYH-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

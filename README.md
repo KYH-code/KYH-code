@@ -26,11 +26,9 @@
 
 <code><img height="70" src="https://code.visualstudio.com/assets/apple-touch-icon.png"></code> <code><img height="70" src="https://www.jetbrains.com/company/brand/img/jetbrains_logo.png"></code> <code><img height="70" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"></code> <code><img height="70" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></code>
 
+---
 
-
-<!-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYH-code)](https://github.com/KYH-code/github-readme-stats)
--->
+![Yun Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYH-code)
 
 <!--
 **KYH-code/KYH-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,13 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=YunHyeonHyeonKim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Yun%20Hyeon's%20Github&descAlignY=51&descAlign=62)
-
-### 👋 Hi there, I'm Front-end Dev
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Yun%20Hyeon%20Kim&fontSize=90)
 
 <div align="center">
 
-### 😎 Yun Hyeon 😎
+### 👋 Hi There [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yunhyeon._.05/)](https://www.instagram.com/yunhyeon._.05/)
 
 ---
-  
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYH-code)](https://github.com/KYH-code/github-readme-stats)
 
 </div>

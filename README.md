@@ -36,5 +36,5 @@
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KYH-code)](https://git.io/streak-stats)
 ![Yun Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYH-code)
+[![Yun Hyeon's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KYH-code)](https://git.io/streak-stats)

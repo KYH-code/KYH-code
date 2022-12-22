@@ -27,7 +27,9 @@
 
 - ##### Database
 
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="70" src="https://images-na.ssl-images-amazon.com/images/I/41QodfboFdL.png"></code> <br>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="70" src="https://images-na.ssl-images-amazon.com/images/I/41QodfboFdL.png"></code>
+<code><img height="70" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png"></code>
+<br>
 
 - ##### Tools
 

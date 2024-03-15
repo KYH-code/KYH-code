@@ -44,11 +44,11 @@
 
 #### 🏆 Awards
 
-- 🏫 I am a student at Gyeongbuk Software High School.
-- 🌏 I am from South Korea and living in Gumi.
-- 🏢 I am currently preparing to start a business.
-- 🌱 I am currently learning React, TypeScript and Python.
-- 📈 I always try to improve myself.
+- 2021 고졸성공 취업대박람회 창업경진대회 한국장학재단 이사장상
+- 제 1회 경북소프트웨어고등학교 해커톤 대회 대상
+- 
+- 
+- 
 
 ---
 

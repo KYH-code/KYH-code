@@ -42,5 +42,15 @@
 
 ---
 
+#### 🏆 Awards
+
+- 🏫 I am a student at Gyeongbuk Software High School.
+- 🌏 I am from South Korea and living in Gumi.
+- 🏢 I am currently preparing to start a business.
+- 🌱 I am currently learning React, TypeScript and Python.
+- 📈 I always try to improve myself.
+
+---
+
 ![Yun Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYH-code)
 [![Yun Hyeon's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KYH-code)](https://git.io/streak-stats)

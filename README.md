@@ -34,6 +34,7 @@
 - ##### Tools
 
 <code><img height="70" src="https://code.visualstudio.com/assets/apple-touch-icon.png"></code>
+<code><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png"></code >
 <code><img height="70" src="https://www.jetbrains.com/company/brand/img/jetbrains_logo.png"></code>
 <code><img height="70" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"></code>
 <code><img height="70" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></code>

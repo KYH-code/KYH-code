@@ -14,11 +14,11 @@
 ---
 #### 🔍 Introduce
 
-- 🏫 I am a student at Gyeongbuk Software High School.
-- 🌏 I am from South Korea and living in Gumi.
-- 🏢 I am currently preparing to start a business.
-- 🌱 I am currently learning React, TypeScript and Python.
-- 📈 I always try to improve myself.
+- 🏫 
+- 🌏 
+- 🏢 
+- 🌱 
+- 📈 
 
 ---
 #### 💻 Tech

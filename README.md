@@ -67,11 +67,7 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/KYH-code"
-  width="600"
-  height="300"
-/>
+  <img src="https://render.gitanimals.org/farms/KYH-code"/>
 </a>
 
 ![Yun Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYH-code)

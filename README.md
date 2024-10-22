@@ -63,6 +63,12 @@
 - TBC, 230522 지금은 지방시대
 
 ---
+#### 📊 status
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/KYH-code"/>
+</a>
 
 ![Yun Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYH-code)
 [![Yun Hyeon's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KYH-code)](https://git.io/streak-stats)
